@@ -1,0 +1,10 @@
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.exe.config
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.exe
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.pdb
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.csprojAssemblyReference.cache
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.Properties.Resources.resources
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.csproj.GenerateResource.cache
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.exe
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.pdb
+C:\Users\matte\source\repos\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.TestForm.resources
