@@ -61,7 +61,6 @@ namespace AnimatedButton
             {
                 AnimationBack.Stop();
                 incremental_x = 1;
-                DrawString = true;
             }
             this.Invalidate();
         }
@@ -128,6 +127,7 @@ namespace AnimatedButton
         protected override void OnMouseLeave(EventArgs e)
         {
             base.OnMouseLeave(e);
+            DrawString = false;
             Animation.Stop();
             AnimationBack.Start();
             //Reset stopwatch
